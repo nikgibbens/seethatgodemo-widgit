@@ -1,2 +1,4 @@
 some configuraiton changes that were checked in after init
 need to pull this file down
+add some additional configuration
+
